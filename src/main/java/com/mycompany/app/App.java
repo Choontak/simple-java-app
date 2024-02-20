@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Tried to push to GitHub, it works!");
+        System.out.println("Schedule testing!");
     }
 
     public String getMessage() {
