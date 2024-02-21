@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Attending CI/CD Training");
+        System.out.println("Attending CI/CD Training - web hook");
     }
 
     public String getMessage() {
