@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("web hook test now!");
+        System.out.println("test email notification");
     }
 
     public String getMessage() {
